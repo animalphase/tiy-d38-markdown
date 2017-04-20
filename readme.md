@@ -1,4 +1,16 @@
+## markdown auto-preview
 
-## Description
+### TIY Week 8, day 38
 
-> Describe your application here and what it does
+**⭐️ live on surge: http://ce-d38-blag.surge.sh/ ⭐️**
+
+----
+
+### Libraries/tools used ⚒
+
+- ECMAscript 2016
+- React
+- Redux
+- Sass
+- webpack
+- yarn
