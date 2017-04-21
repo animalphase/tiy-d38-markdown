@@ -11,6 +11,7 @@
 - ECMAscript 2016
 - React
 - Redux
+- [marked](https://github.com/chjj/marked)
 - Sass
 - webpack
 - yarn
